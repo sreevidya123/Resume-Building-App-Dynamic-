@@ -1,1 +1,2 @@
-# Resume-Building-App-Dynamic-
+# resume_vidya
+about my resume
